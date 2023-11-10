@@ -45,11 +45,11 @@ print(list)
 #len            indica o tamanho da lista
 print(len(list))
 
-#sum
+#sum            realiza a soma dos elementos da lista numérica
 print(sum(list))    
 
-#max
+#max            indica o maior elemento da lista numérica
 print(max(list))
 
-#min
+#min            indica o menor elemento da lista numérica
 print(min(list))
